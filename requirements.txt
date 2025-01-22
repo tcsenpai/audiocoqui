@@ -5,3 +5,4 @@ PyPDF2
 tqdm
 rich
 rich-click
+psutil

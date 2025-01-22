@@ -12,4 +12,5 @@ dependencies = [
     "rich>=13.9.4",
     "tqdm>=4.67.1",
     "tts>=0.22.0",
+    "psutil>=6.1.1",
 ]
