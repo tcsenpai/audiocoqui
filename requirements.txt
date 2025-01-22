@@ -1,0 +1,7 @@
+TTS
+pydub
+python-dotenv
+PyPDF2
+tqdm
+rich
+rich-click
